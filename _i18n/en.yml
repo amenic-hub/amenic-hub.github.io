@@ -1,0 +1,21 @@
+home:
+  title: amenic
+  subtitle: Welcome to <b>amenic</b>'s blog!
+
+aboutme:
+  title: About me
+  subtitle: Why you'd want to go on a date with me :)
+
+language:
+  english: english
+  italian: italian
+
+footer:
+  multilanguage: "Questa pagina è anche disponibile in:"
+
+promo-box:
+  message: If you like my works, please consider donating to let me know it and to encourage me to write new contents.
+  thanks: Thanks!
+  supportMe: ❤ Support me
+
+prova: test

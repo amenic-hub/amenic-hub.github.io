@@ -1,0 +1,14 @@
+<div class="container-md footer-languages">
+  <div class="row">
+    <div class="col-xl-8 offset-xl-2 col-lg-10 offset-lg-1">
+      <span class="text-little">{% t footer.multilanguage %}</span>
+        {% if site.lang == "it" %}
+          {% capture link1 %}{{ site.baseurl_root }}/en{{ page.url}}{% endcapture %}
+            <a href="{{ link1 }}" ><img src="{{ 'assets/img/countries/uk.png' | relative_url }}" alt="{% t language.english %}"/></a>
+        {% elsif site.lang == "en" %}
+          {% capture link2 %}{{ site.baseurl_root }}{{ page.url  }}{% endcapture %}
+            <a href="{{ link2 }}" ><img src="{{ 'assets/img/countries/it.png' | relative_url }}" alt="{% t language.italian %}"/></a>
+        {% endif %}
+    </div>
+  </div>
+</div>

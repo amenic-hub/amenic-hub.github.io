@@ -1,0 +1,21 @@
+home:
+  title: amenic
+  subtitle: Benvenuti nel blog di <b>amenic</b>
+
+aboutme:
+  title: Su di me
+  subtitle: Perchè dovresti chiedermi un appuntamento :)
+
+language:
+  english: inglese
+  italian: italiano
+
+footer:
+  multilanguage: "This page is also available in:"
+
+promo-box:
+  message: Se apprezzi il lavoro da me svolto, considera una piccola donazione per farmelo sapere e continuare a produrre nuovi contenuti.
+  thanks: Grazie!
+  supportMe: ❤ Supportami
+
+prova: prova
