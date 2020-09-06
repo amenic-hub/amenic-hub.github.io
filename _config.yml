@@ -48,6 +48,8 @@ social-network-links:
   github: amenic-hub
   twitter: _amenic
   instagram: ame_nic
+  stackoverflow: 7580097/amenic
+  linkedin: nicola-amendolara-29836963
 
 # If you want to show a link to an RSS in the footer, add the site description here.
 # If you don't want to show an RSS link, remove the following line.
@@ -64,7 +66,7 @@ share-links-active:
 
 # How to display the link to your website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "amenic-hub.githubcom"
+url-pretty: "amenic-hub.github.com"
 
 # Create a "tags" index page and make tags on each post clickable
 link-tags: true
@@ -186,7 +188,7 @@ defaults:
       layout: "post"
       comments: true  # add comments to all blog posts
       social-share: true # add social media sharing buttons to all blog posts
-      readtime: false # add estimated reading time on all blog posts
+      readtime: true # add estimated reading time on all blog posts
   -
     scope:
       path: "" # all files
