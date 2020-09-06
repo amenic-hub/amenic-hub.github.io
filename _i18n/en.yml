@@ -10,6 +10,9 @@ language:
   english: english
   italian: italian
 
+post:
+  minuteRead: minute(s) read
+
 footer:
   multilanguage: "Questa pagina è anche disponibile in:"
 
