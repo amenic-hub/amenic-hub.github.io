@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    
+    <title>amenic</title>
+    
+    
+    <description>This website is a knowledge sharing hub</description>
+    
+    <link>https://amenic-hub.github.io/</link>
+    <atom:link href="https://amenic-hub.github.io//feed.xml" rel="self" type="application/rss+xml" />
+	
+    
+      <item>
+        <title>Confluent Connect</title>
+        <description>
+          Soluzione per sincronizzare sorgenti diverse con Kafka - 
+          prova
+
+        </description>
+        <pubDate>Sun, 30 Aug 2020 00:00:00 -0700</pubDate>
+        <link>https://amenic-hub.github.io//2020-08-30-confluent-connector/</link>
+        <guid isPermaLink="true">https://amenic-hub.github.io//2020-08-30-confluent-connector/</guid>
+      </item>
+    
+  </channel>
+</rss>
