@@ -16,6 +16,7 @@ In this site I want to collect knowledge, ideas, experiences, projects; create a
 Enjoy!
 
 ## My history
+
 I was born in Gravina in Puglia in 1991, a town I love for its history and its deeply-rooted culture. In Gravina I attended high school, before moving to Bari, where I enrolled in the faculty of _Informatics and Technologies for Software Production_ which I completed with a grade of 110.
 
 Later I moved to Milan, where I started working and where I have now settled; although it does not preclude any eventuality.
@@ -28,4 +29,5 @@ When I have my feet on the ground and I have free time, I like to go out and hav
 What will my next destination be? If you can get there with your mind, then you can also do it physically and concretely ... no limits!
 
 ## Curriculum Vitae
+
 If you want to know more about my working experience, you can take a look at my ***LinkedIn*** profile, which I try always to keep up to date. You can find the link here below in the footer of every page!
